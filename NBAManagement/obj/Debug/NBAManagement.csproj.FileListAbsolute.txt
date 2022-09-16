@@ -1,0 +1,84 @@
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\bin\Debug\NBAManagement.exe.config
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\bin\Debug\NBAManagement.exe
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\bin\Debug\NBAManagement.pdb
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.csproj.AssemblyReference.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\MainWindow.g.cs
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\App.g.cs
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.lref
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\MainWindow.baml
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.g.resources
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.Properties.Resources.resources
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.csproj.GenerateResource.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.csproj.CoreCompileInputs.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.exe
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Куприенко Евгений\NBAManagement\obj\Debug\NBAManagement.pdb
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\MainWindow.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\App.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.cache
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.lref
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.exe
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.pdb
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.exe.config
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.exe
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.pdb
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\MainWindow.baml
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.g.resources
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.Properties.Resources.resources
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.GenerateResource.cache
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.CoreCompileInputs.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.exe.config
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.exe
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.pdb
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.AssemblyReference.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\MainWindow.g.cs
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\App.g.cs
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.lref
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\MainWindow.baml
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.g.resources
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.Properties.Resources.resources
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.GenerateResource.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.CoreCompileInputs.cache
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.exe
+\\169.254.5.2\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.pdb
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.exe.config
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.exe
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\bin\Debug\NBAManagement.pdb
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.AssemblyReference.cache
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\MainWindow.g.cs
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\WindowVisitorMain.g.cs
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\App.g.cs
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.cache
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement_MarkupCompile.lref
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\MainWindow.baml
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\WindowVisitorMain.baml
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.g.resources
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.Properties.Resources.resources
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.GenerateResource.cache
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.csproj.CoreCompileInputs.cache
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.exe
+Z:\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\NBAManagement.pdb
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\bin\Debug\NBAManagement.exe.config
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\bin\Debug\NBAManagement.exe
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\bin\Debug\NBAManagement.pdb
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.csproj.AssemblyReference.cache
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\MainWindow.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\WindowVisitor.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\App.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement_MarkupCompile.cache
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement_MarkupCompile.lref
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\MainWindow.baml
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\WindowVisitor.baml
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.g.resources
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.Properties.Resources.resources
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.csproj.GenerateResource.cache
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.csproj.CoreCompileInputs.cache
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.exe
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement — копия\obj\Debug\NBAManagement.pdb
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\TeamDetailWindow.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\TeamsWindow.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\WindowVisitor.g.cs
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\TeamDetailWindow.baml
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\TeamsWindow.baml
+\\SPEK\PrePress\914-пр\!МДК 01.01\Студенты\Магарченков Даниил\4 курс\NBAManagement\obj\Debug\WindowVisitor.baml
